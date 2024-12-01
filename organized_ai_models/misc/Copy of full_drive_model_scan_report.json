@@ -1,0 +1,964 @@
+{
+    "complete_models": [
+        {
+            "name": "My Drive",
+            "path": "/content/drive/My Drive"
+        },
+        {
+            "name": "EleutherAI_gpt-neo-125M",
+            "path": "/content/drive/My Drive/colab_models/EleutherAI_gpt-neo-125M"
+        },
+        {
+            "name": "21def0189f5705e2521767faed922f1f15e7d7db",
+            "path": "/content/drive/My Drive/colab_models/EleutherAI_gpt-neo-125M/models--EleutherAI--gpt-neo-125M/snapshots/21def0189f5705e2521767faed922f1f15e7d7db"
+        },
+        {
+            "name": "distilgpt2",
+            "path": "/content/drive/My Drive/colab_models/distilgpt2"
+        },
+        {
+            "name": "2290a62682d06624634c1f46a6ad5be0f47f38aa",
+            "path": "/content/drive/My Drive/colab_models/distilgpt2/models--distilgpt2/snapshots/2290a62682d06624634c1f46a6ad5be0f47f38aa"
+        },
+        {
+            "name": "distilroberta-base",
+            "path": "/content/drive/My Drive/colab_models/distilroberta-base"
+        },
+        {
+            "name": "fb53ab8802853c8e4fbdbcd0529f21fc6f459b2b",
+            "path": "/content/drive/My Drive/colab_models/distilroberta-base/models--distilroberta-base/snapshots/fb53ab8802853c8e4fbdbcd0529f21fc6f459b2b"
+        },
+        {
+            "name": "2a8f12d27941090092df78e4ba6f0928eb5eac98",
+            "path": "/content/drive/My Drive/colab_models/roberta-large-mnli/models--roberta-large-mnli/snapshots/2a8f12d27941090092df78e4ba6f0928eb5eac98"
+        },
+        {
+            "name": "openai_whisper-tiny",
+            "path": "/content/drive/My Drive/colab_models/openai_whisper-tiny"
+        },
+        {
+            "name": "169d4a4341b33bc18d8881c4b69c2e104e1cc0af",
+            "path": "/content/drive/My Drive/colab_models/openai_whisper-tiny/models--openai--whisper-tiny/snapshots/169d4a4341b33bc18d8881c4b69c2e104e1cc0af"
+        },
+        {
+            "name": "openai_whisper-large",
+            "path": "/content/drive/My Drive/colab_models/openai_whisper-large"
+        },
+        {
+            "name": "openai_whisper-small",
+            "path": "/content/drive/My Drive/colab_models/openai_whisper-small"
+        },
+        {
+            "name": "37f520fa929c961707657b28798b30c003dd100b",
+            "path": "/content/drive/My Drive/colab_models/missing_files/facebook_bart-large-cnn (1)/models--facebook--bart-large-cnn/snapshots/37f520fa929c961707657b28798b30c003dd100b"
+        },
+        {
+            "name": "40b7a3b6e99e73bdb497a14b740e7167b3413c74",
+            "path": "/content/drive/My Drive/colab_models/missing_files/Salesforce_codegen-350M-mono (1)/models--Salesforce--codegen-350M-mono/snapshots/40b7a3b6e99e73bdb497a14b740e7167b3413c74"
+        },
+        {
+            "name": "e37978b90ca9030d5170a5c07aadb050351a65bb",
+            "path": "/content/drive/My Drive/colab_models/missing_files/openai_whisper-base (1)/models--openai--whisper-base/snapshots/e37978b90ca9030d5170a5c07aadb050351a65bb"
+        },
+        {
+            "name": "cb48c1365bd826bd521f650dc2e0940aee54720c",
+            "path": "/content/drive/My Drive/colab_models/missing_files/facebook_bart-large/models--facebook--bart-large/snapshots/cb48c1365bd826bd521f650dc2e0940aee54720c"
+        },
+        {
+            "name": "301e6a42cb0d9976a6d6a26a079fef81c18aa895",
+            "path": "/content/drive/My Drive/colab_models/missing_files/allenai_longformer-base-4096 (1)/models--allenai--longformer-base-4096/snapshots/301e6a42cb0d9976a6d6a26a079fef81c18aa895"
+        },
+        {
+            "name": "d7645e127eaf1aefc7862fd59a17a5aa8558b8ce",
+            "path": "/content/drive/My Drive/colab_models/missing_files/facebook_bart-large-mnli (1)/models--facebook--bart-large-mnli/snapshots/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce"
+        },
+        {
+            "name": "47e169305d2e8376be1d31e765533382721b2cc1",
+            "path": "/content/drive/My Drive/colab_models/missing_files/EleutherAI_gpt-j-6B (1)/models--EleutherAI--gpt-j-6B/snapshots/47e169305d2e8376be1d31e765533382721b2cc1"
+        },
+        {
+            "name": "21def0189f5705e2521767faed922f1f15e7d7db",
+            "path": "/content/drive/My Drive/colab_models/missing_files/EleutherAI_gpt-neo-125m/models--EleutherAI--gpt-neo-125m/snapshots/21def0189f5705e2521767faed922f1f15e7d7db"
+        },
+        {
+            "name": "e37978b90ca9030d5170a5c07aadb050351a65bb",
+            "path": "/content/drive/My Drive/organized_ai_models/e37978b90ca9030d5170a5c07aadb050351a65bb"
+        },
+        {
+            "name": "47e169305d2e8376be1d31e765533382721b2cc1",
+            "path": "/content/drive/My Drive/organized_ai_models/47e169305d2e8376be1d31e765533382721b2cc1"
+        },
+        {
+            "name": "EleutherAI_gpt-neo-125M",
+            "path": "/content/drive/My Drive/organized_ai_models/EleutherAI_gpt-neo-125M"
+        },
+        {
+            "name": "21def0189f5705e2521767faed922f1f15e7d7db",
+            "path": "/content/drive/My Drive/organized_ai_models/21def0189f5705e2521767faed922f1f15e7d7db"
+        },
+        {
+            "name": "distilgpt2",
+            "path": "/content/drive/My Drive/organized_ai_models/distilgpt2"
+        },
+        {
+            "name": "2290a62682d06624634c1f46a6ad5be0f47f38aa",
+            "path": "/content/drive/My Drive/organized_ai_models/2290a62682d06624634c1f46a6ad5be0f47f38aa"
+        },
+        {
+            "name": "distilroberta-base",
+            "path": "/content/drive/My Drive/organized_ai_models/distilroberta-base"
+        },
+        {
+            "name": "facebook_opt-2.7b",
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_opt-2.7b"
+        },
+        {
+            "name": "openai_whisper-large",
+            "path": "/content/drive/My Drive/organized_ai_models/openai_whisper-large"
+        },
+        {
+            "name": "openai_whisper-small",
+            "path": "/content/drive/My Drive/organized_ai_models/openai_whisper-small"
+        },
+        {
+            "name": "all_ai_models",
+            "path": "/content/drive/My Drive/all_ai_models"
+        }
+    ],
+    "incomplete_models": {
+        "sentence-transformers_all-MiniLM-L6-v2": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/sentence-transformers_all-MiniLM-L6-v2"
+        },
+        "fa97f6e7cb1a59073dff9e6b13e2715cf7475ac9": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/fa97f6e7cb1a59073dff9e6b13e2715cf7475ac9"
+        },
+        "distilbert-base-cased": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/distilbert-base-cased"
+        },
+        "6ea81172465e8b0ad3fddeed32b986cdcdcffcf0": {
+            "missing_files": [
+                "tokenizer.json",
+                "vocab.json",
+                "config.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/all_ai_models/models--distilbert-base-cased/snapshots/6ea81172465e8b0ad3fddeed32b986cdcdcffcf0"
+        },
+        "distilgpt2": {
+            "missing_files": [
+                "config.json",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/colab_models/missing_files/distilgpt2"
+        },
+        "2290a62682d06624634c1f46a6ad5be0f47f38aa": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/colab_models/distilgpt2/distilgpt2/models--distilgpt2/snapshots/2290a62682d06624634c1f46a6ad5be0f47f38aa"
+        },
+        "bert-base-uncased": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bert-base-uncased"
+        },
+        "86b5e0934494bd15c9632b12f734a8a67f723594": {
+            "missing_files": [
+                "tokenizer.json",
+                "vocab.json",
+                "config.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/all_ai_models/models--bert-base-uncased/snapshots/86b5e0934494bd15c9632b12f734a8a67f723594"
+        },
+        "EleutherAI_gpt-neo-2 (1).7B": {
+            "missing_files": [
+                "tokenizer.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/EleutherAI_gpt-neo-2 (1).7B"
+        },
+        "e24fa291132763e59f4a5422741b424fb5d59056": {
+            "missing_files": [
+                "tokenizer.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/e24fa291132763e59f4a5422741b424fb5d59056"
+        },
+        "deepset_roberta-base-squad2": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/deepset_roberta-base-squad2"
+        },
+        "adc3b06f79f797d1c575d5479d6f5efe54a9e3b4": {
+            "missing_files": [
+                "tokenizer.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/adc3b06f79f797d1c575d5479d6f5efe54a9e3b4"
+        },
+        "distilroberta-base": {
+            "missing_files": [
+                "config.json",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/colab_models/missing_files/distilroberta-base"
+        },
+        "fb53ab8802853c8e4fbdbcd0529f21fc6f459b2b": {
+            "missing_files": [
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/fb53ab8802853c8e4fbdbcd0529f21fc6f459b2b"
+        },
+        "150ebc2c4b72291e770f58e6057481c8d2ed331a": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/150ebc2c4b72291e770f58e6057481c8d2ed331a"
+        },
+        "facebook_opt-2.7b": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/colab_models/missing_files/facebook_opt-2.7b"
+        },
+        "905a4b602cda5c501f1b3a2650a4152680238254": {
+            "missing_files": [
+                "tokenizer.json"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/905a4b602cda5c501f1b3a2650a4152680238254"
+        },
+        "bigscience_bloom-560m": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bigscience_bloom-560m"
+        },
+        "ac2ae5fab2ce3f9f40dc79b5ca9f637430d24971": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/ac2ae5fab2ce3f9f40dc79b5ca9f637430d24971"
+        },
+        "bigscience_T0pp": {
+            "missing_files": [
+                "tokenizer.json",
+                "vocab.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bigscience_T0pp"
+        },
+        "bigscience_bloom-3b": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bigscience_bloom-3b"
+        },
+        "cardiffnlp_twitter-roberta-base-sentiment (1)": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/colab_models/missing_files/cardiffnlp_twitter-roberta-base-sentiment (1)"
+        },
+        "EleutherAI_gpt-neo-1 (1).3B": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/EleutherAI_gpt-neo-1 (1).3B"
+        },
+        "dbe59a7f4a88d01d1ba9798d78dbe3fe038792c8": {
+            "missing_files": [
+                "tokenizer.json",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/dbe59a7f4a88d01d1ba9798d78dbe3fe038792c8"
+        },
+        "facebook_bart-large-cnn (1)": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_bart-large-cnn (1)"
+        },
+        "Salesforce_codegen-350M-mono (1)": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/Salesforce_codegen-350M-mono (1)"
+        },
+        "google_mt5-small": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/google_mt5-small"
+        },
+        "73fb5dbe4756edadc8fbe8c769b0a109493acf7a": {
+            "missing_files": [
+                "tokenizer.json",
+                "vocab.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/73fb5dbe4756edadc8fbe8c769b0a109493acf7a"
+        },
+        "openai_whisper-base (1)": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/openai_whisper-base (1)"
+        },
+        "google_pegasus-cnn_dailymail": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/google_pegasus-cnn_dailymail"
+        },
+        "microsoft_DialoGPT-medium (1)": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/microsoft_DialoGPT-medium (1)"
+        },
+        "facebook_bart-large-xsum (1)": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_bart-large-xsum (1)"
+        },
+        "abdf7c39ab9d0397620ccaea8974cc764cd0953e": {
+            "missing_files": [
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/abdf7c39ab9d0397620ccaea8974cc764cd0953e"
+        },
+        "9a3225965996d404b775526de6dbfe85d3368642": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/9a3225965996d404b775526de6dbfe85d3368642"
+        },
+        "3f5c25d0bc631cb57ac65913f76e22c2dfb61d62": {
+            "missing_files": [
+                "tokenizer.json"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/3f5c25d0bc631cb57ac65913f76e22c2dfb61d62"
+        },
+        "e93b5898cff07f03f1c1c09cde284d1b85962363": {
+            "missing_files": [
+                "tokenizer.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/e93b5898cff07f03f1c1c09cde284d1b85962363"
+        },
+        "4ef55a20b36c6903b832e38f0604ab4bdf22c7d6": {
+            "missing_files": [
+                "tokenizer.json",
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/4ef55a20b36c6903b832e38f0604ab4bdf22c7d6"
+        },
+        "d94f2131831e92dfd47e4fb32e62e349f8b1bd66": {
+            "missing_files": [
+                "tokenizer.json"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/d94f2131831e92dfd47e4fb32e62e349f8b1bd66"
+        },
+        "cd59d11c3528415b7dda4dfc95cc8f138aceda2e": {
+            "missing_files": [
+                "tokenizer.json"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/cd59d11c3528415b7dda4dfc95cc8f138aceda2e"
+        },
+        "78fb38a59ea3cb6902e04d96da93efc87aeeff76": {
+            "missing_files": [
+                "tokenizer.json"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/78fb38a59ea3cb6902e04d96da93efc87aeeff76"
+        },
+        "f1c9bac89b74d3487cb092788ce828fb9520c1a7": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/f1c9bac89b74d3487cb092788ce828fb9520c1a7"
+        },
+        "1d43a3b40d7d708d8084d07dfae0c4e9fd95c04f": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/1d43a3b40d7d708d8084d07dfae0c4e9fd95c04f"
+        },
+        "e07c395916dfbc315d4e5e48b4a54a1e8821b5c0": {
+            "missing_files": [
+                "tokenizer.json",
+                "vocab.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/e07c395916dfbc315d4e5e48b4a54a1e8821b5c0"
+        },
+        "71b41964e82666ecdb8c72b11d8a02395e6fcda5": {
+            "missing_files": [
+                "tokenizer.json"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/71b41964e82666ecdb8c72b11d8a02395e6fcda5"
+        },
+        "032a20e775dd500df0a5a7f404466183d67f172b": {
+            "missing_files": [
+                "tokenizer.json",
+                "vocab.json",
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/032a20e775dd500df0a5a7f404466183d67f172b"
+        },
+        "e515202d1e7750da62d245fbccb2723b9c1790f5": {
+            "missing_files": [
+                "tokenizer.json",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/e515202d1e7750da62d245fbccb2723b9c1790f5"
+        },
+        "6232703e399354503377bf59dfbb8397fd569e4a": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/6232703e399354503377bf59dfbb8397fd569e4a"
+        },
+        "7259969061237fe940036d22bea0fd349e4485e9": {
+            "missing_files": [
+                "tokenizer.json",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/7259969061237fe940036d22bea0fd349e4485e9"
+        },
+        "a45aa65bbeb77c1558bc99bedc6779195462dab0": {
+            "missing_files": [
+                "tokenizer.json",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/a45aa65bbeb77c1558bc99bedc6779195462dab0"
+        },
+        "c292233c833e336628618a88a648727eb3dff0a7": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/c292233c833e336628618a88a648727eb3dff0a7"
+        },
+        "facebook_opt-13b": {
+            "missing_files": [
+                "tokenizer.json",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_opt-13b"
+        },
+        "bigscience_bloom-7b1": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bigscience_bloom-7b1"
+        },
+        "twitter-roberta-base-sentiment": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/twitter-roberta-base-sentiment"
+        },
+        "gpt-neo-125M": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/gpt-neo-125M"
+        },
+        "gpt-neo-1.3B": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/gpt-neo-1.3B"
+        },
+        "gpt-neo-2.7B": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/gpt-neo-2.7B"
+        },
+        "gpt-j-6B": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/gpt-j-6B"
+        },
+        "roberta-base-squad2": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/roberta-base-squad2"
+        },
+        "codebert-base-mlm": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/codebert-base-mlm"
+        },
+        "DialoGPT-medium": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/DialoGPT-medium"
+        },
+        "longformer-base-4096": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/longformer-base-4096"
+        },
+        "all-MiniLM-L6-v2": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/all-MiniLM-L6-v2"
+        },
+        "bart-large-cnn": {
+            "missing_files": [
+                "tokenizer.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bart-large-cnn"
+        },
+        "opt-1.3b": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/opt-1.3b"
+        },
+        "bart-large-xsum": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bart-large-xsum"
+        },
+        "opt-2.7b": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/opt-2.7b"
+        },
+        "bart-large-mnli": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bart-large-mnli"
+        },
+        "opt-6.7b": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/opt-6.7b"
+        },
+        "codegen-350M-mono": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/codegen-350M-mono"
+        },
+        "whisper-base": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/whisper-base"
+        },
+        "bloom-560m": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bloom-560m"
+        },
+        "cardiffnlp_twitter-roberta-base-sentiment": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/cardiffnlp_twitter-roberta-base-sentiment"
+        },
+        "EleutherAI_gpt-neo-125M": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/colab_models/missing_files/EleutherAI_gpt-neo-125M"
+        },
+        "microsoft_codebert-base-mlm": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/microsoft_codebert-base-mlm"
+        },
+        "allenai_longformer-base-4096": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/allenai_longformer-base-4096"
+        },
+        "facebook_bart-large-cnn": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_bart-large-cnn"
+        },
+        "EleutherAI_gpt-neo-1.3B": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/EleutherAI_gpt-neo-1.3B"
+        },
+        "facebook_opt-1.3b": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_opt-1.3b"
+        },
+        "EleutherAI_gpt-neo-2.7B": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/EleutherAI_gpt-neo-2.7B"
+        },
+        "facebook_bart-large-xsum": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_bart-large-xsum"
+        },
+        "Salesforce_codegen-350M-mono": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/Salesforce_codegen-350M-mono"
+        },
+        "microsoft_DialoGPT-medium": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/microsoft_DialoGPT-medium"
+        },
+        "facebook_bart-large-mnli": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_bart-large-mnli"
+        },
+        "openai_whisper-base": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/openai_whisper-base"
+        },
+        "facebook_opt-6.7b": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_opt-6.7b"
+        },
+        "EleutherAI_gpt-j-6B": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/EleutherAI_gpt-j-6B"
+        },
+        "bigscience_T0_3B": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bigscience_T0_3B"
+        },
+        "BLOOM-560m": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/BLOOM-560m"
+        },
+        "flan-t5-xxl": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/flan-t5-xxl"
+        },
+        "colab_modelsgpt-neo-2.7B": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsgpt-neo-2.7B"
+        },
+        "colab_modelsgpt-neo-1.3B": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsgpt-neo-1.3B"
+        },
+        "colab_modelsbloom-560m": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbloom-560m"
+        },
+        "colab_modelsbart-large-cnn": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbart-large-cnn"
+        },
+        "colab_modelsbert-base-uncased": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbert-base-uncased"
+        },
+        "colab_modelsbloom-3B": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbloom-3B"
+        },
+        "colab_modelsbart-large-xsum": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbart-large-xsum"
+        },
+        "colab_modelsbart-large-mnli": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbart-large-mnli"
+        },
+        "colab_modelsopt-2.7b": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsopt-2.7b"
+        },
+        "colab_modelsflan-t5-xxl": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsflan-t5-xxl"
+        },
+        "colab_modelsbloom-1b7": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbloom-1b7"
+        },
+        "colab_modelsbert-large-uncased": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbert-large-uncased"
+        },
+        "colab_modelsbart-large": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelsbart-large"
+        },
+        "colab_modelscodebert-base-mlm": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/colab_modelscodebert-base-mlm"
+        },
+        "BigScience_bloom-560m": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/BigScience_bloom-560m"
+        },
+        "pegasus-cnn_dailymail": {
+            "missing_files": [
+                "vocab.json",
+                "config.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/pegasus-cnn_dailymail"
+        },
+        "misc_files": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/misc_files"
+        },
+        "facebook_bart-large": {
+            "missing_files": [
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_bart-large"
+        },
+        "sentence-transformers_all-mpnet-base-v2": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/sentence-transformers_all-mpnet-base-v2"
+        },
+        "huggingface_CodeBERTa-small-v1": {
+            "missing_files": [
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/huggingface_CodeBERTa-small-v1"
+        },
+        "stabilityai_stablelm-base-alpha-7b": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/stabilityai_stablelm-base-alpha-7b"
+        },
+        "bigscience_bloomz-7b1": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/bigscience_bloomz-7b1"
+        },
+        "stabilityai_stablelm-tuned-alpha-7b": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/stabilityai_stablelm-tuned-alpha-7b"
+        },
+        "facebook_galactica-6.7b": {
+            "missing_files": [
+                "vocab.json",
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/facebook_galactica-6.7b"
+        },
+        "37f520fa929c961707657b28798b30c003dd100b": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/37f520fa929c961707657b28798b30c003dd100b"
+        },
+        "40b7a3b6e99e73bdb497a14b740e7167b3413c74": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/40b7a3b6e99e73bdb497a14b740e7167b3413c74"
+        },
+        "cb48c1365bd826bd521f650dc2e0940aee54720c": {
+            "missing_files": [
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/cb48c1365bd826bd521f650dc2e0940aee54720c"
+        },
+        "301e6a42cb0d9976a6d6a26a079fef81c18aa895": {
+            "missing_files": [
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/301e6a42cb0d9976a6d6a26a079fef81c18aa895"
+        },
+        "d7645e127eaf1aefc7862fd59a17a5aa8558b8ce": {
+            "missing_files": [
+                "merges.txt"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/d7645e127eaf1aefc7862fd59a17a5aa8558b8ce"
+        },
+        "2a8f12d27941090092df78e4ba6f0928eb5eac98": {
+            "missing_files": [
+                "merges.txt",
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/2a8f12d27941090092df78e4ba6f0928eb5eac98"
+        },
+        "openai_whisper-tiny": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/openai_whisper-tiny"
+        },
+        "169d4a4341b33bc18d8881c4b69c2e104e1cc0af": {
+            "missing_files": [
+                "pytorch_model.bin"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/169d4a4341b33bc18d8881c4b69c2e104e1cc0af"
+        },
+        "My Drive": {
+            "missing_files": [
+                "config.json"
+            ],
+            "path": "/content/drive/My Drive/organized_ai_models/My Drive"
+        }
+    }
+}
