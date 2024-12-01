@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "description": "Train AI model for recommendation system",
+        "status": "completed"
+    },
+    {
+        "id": 2,
+        "description": "Build AI integration for platform automation",
+        "status": "completed"
+    },
+    {
+        "id": 3,
+        "description": "Create pipeline for automated task processing",
+        "status": "completed"
+    }
+]
