@@ -1,0 +1,16 @@
+{
+    "SystemA": {
+        "models": [
+            "model1",
+            "model2"
+        ],
+        "purpose": "Coding backend"
+    },
+    "SystemB": {
+        "models": [
+            "model3",
+            "model4"
+        ],
+        "purpose": "Frontend automation"
+    }
+}
