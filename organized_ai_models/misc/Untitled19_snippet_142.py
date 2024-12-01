@@ -1,0 +1,3 @@
+Service: Compute Engine, Billing Account ID: A1B2C3-12345, Date: 2024-11-21, Cost: $123.45
+Service: Cloud Storage, Billing Account ID: A1B2C3-12345, Date: 2024-11-21, Cost: $67.89
+...
