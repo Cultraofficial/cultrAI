@@ -1,0 +1,109 @@
+{
+    "total_models": 17,
+    "complete_models": 0,
+    "incomplete_models": 17,
+    "details": {
+        "complete_models": [],
+        "incomplete_models": {
+            "organized_ai_models": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Cultra_Personal_ACe": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Cultra_Shared": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Cultra_Memory": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Cultra_Time_Capsule": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Spartan_AI_Legion": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "finalized_ai_models": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Colab Notebooks": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Cultra Drive": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "models": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "AI_Models_Consolidated": [
+                "config.json",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Superman_AI_Consolidated": [
+                "config.json",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "AI_Generated_Assets": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "AI_Models_Corrupted": [
+                "config.json",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "ai_outputs": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "AI_outputs": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ],
+            "Repaired_Integrated_Models": [
+                "config.json",
+                "pytorch_model.bin",
+                "tokenizer_config.json",
+                "vocab.json"
+            ]
+        }
+    }
+}
