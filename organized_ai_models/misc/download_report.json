@@ -1,0 +1,42 @@
+{
+    "sentence-transformers_all-MiniLM-L6-v2": {
+        "Missing Files": [
+            "vocab.json",
+            "merges.txt"
+        ],
+        "Status": "Incomplete"
+    },
+    "distilbert-base-cased": {
+        "Missing Files": [
+            "pytorch_model.bin",
+            "vocab.json",
+            "merges.txt"
+        ],
+        "Status": "Incomplete"
+    },
+    "distilgpt2": {
+        "Missing Files": [
+            "model.safetensors"
+        ],
+        "Status": "Incomplete"
+    },
+    "bert-base-uncased": {
+        "Missing Files": [
+            "vocab.json",
+            "merges.txt"
+        ],
+        "Status": "Incomplete"
+    },
+    "EleutherAI_gpt-neo-2 (1).7B": {
+        "Missing Files": [
+            "model.safetensors"
+        ],
+        "Status": "Incomplete"
+    },
+    "deepset_roberta-base-squad2": {
+        "Missing Files": [
+            "model.safetensors"
+        ],
+        "Status": "Incomplete"
+    }
+}
