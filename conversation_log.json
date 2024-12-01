@@ -1,0 +1,86 @@
+{
+    "task": "text_generation",
+    "prompt": "Explain artificial intelligence.",
+    "results": [
+        [
+            0,
+            {
+                "GPT-2": [
+                    {
+                        "generated_text": "Explain artificial intelligence. We live in a world where artificial intelligence is being deployed in our everyday lives and we're only talking about some few of the things that are coming to it via the internet and connected devices.\n\nThat's not to say"
+                    }
+                ],
+                "BLOOM": [
+                    {
+                        "generated_text": "Explain artificial intelligence. The book is a collection of essays by the author, which are written in a very clear and concise manner. The book is a must read for anyone who wants to understand the concept of AI. The book is a must"
+                    }
+                ]
+            }
+        ],
+        [
+            1,
+            {
+                "GPT-2": [
+                    {
+                        "generated_text": "Explain artificial intelligence. Use techniques developed for the defense.\n\n3,501 students aged 12 To 14 5,977 students aged 20 To 29 12,287 students aged 30 To 34 7,084 students aged 35 To 39\n\n"
+                    }
+                ],
+                "BLOOM": [
+                    {
+                        "generated_text": "Explain artificial intelligence. The book is a collection of essays by the author, which are written in a very clear and concise manner. The book is a must read for anyone who wants to understand the concept of AI. The book is a must"
+                    }
+                ]
+            }
+        ],
+        [
+            2,
+            {
+                "GPT-2": [
+                    {
+                        "generated_text": "Explain artificial intelligence.\n\n\"At the same time, our future is already being tested in laboratory settings, enabling us to anticipate unforeseen changes,\" he said. \"We are making the tools which we will use as part of our future research a"
+                    }
+                ],
+                "BLOOM": [
+                    {
+                        "generated_text": "Explain artificial intelligence. The book is a collection of essays by the author, which are written in a very clear and concise manner. The book is a must read for anyone who wants to understand the concept of AI. The book is a must"
+                    }
+                ]
+            }
+        ],
+        [
+            3,
+            {
+                "GPT-2": [
+                    {
+                        "generated_text": "Explain artificial intelligence.\n\nA few more points that I think you can take into consideration are:\n\n\u2013 The AI that creates humans is designed to provide them with intelligence and to create ways to do this, so AI needs to learn how"
+                    }
+                ],
+                "BLOOM": [
+                    {
+                        "generated_text": "Explain artificial intelligence. The book is a collection of essays by the author, which are written in a very clear and concise manner. The book is a must read for anyone who wants to understand the concept of AI. The book is a must"
+                    }
+                ]
+            }
+        ]
+    ],
+    "Splinter_0": {
+        "GPT-2": "Explain artificial intelligence. When you talk about \"AI\", \"AI research,\" \"AI software\" and most importantly, you're talking about an AI that is constantly working and performing. In today's context, it's all about time management and data",
+        "BLOOM": "Explain artificial intelligence. The book is a collection of essays by the author, which are written in a very clear and concise manner. The book is a must read for anyone who wants to understand the concept of AI. The book is a must",
+        "Image": "/content/drive/My Drive/AI_outputs/Explain_artificial_intelligence..png"
+    },
+    "Splinter_1": {
+        "GPT-2": "Generate a futuristic cityscape.\n\nIt starts in the town of Lapland, located on the Gulf of Mexico. With the combined forces of soldiers tasked with building a new city, and the aid provided from other states' governments, the",
+        "BLOOM": "Generate a futuristic cityscape.\");\n        }\n\n        public void setCity(City city) {\n            this.city = city;\n        }\n\n        public City getCity() {\n            return city;\n        }\n\n        public void setCityName",
+        "Image": "/content/drive/My Drive/AI_outputs/Generate_a_futuristic_cityscape..png"
+    },
+    "Splinter_2": {
+        "GPT-2": "Write a poem about technology.\n\nA quote from The Economist's David Brin\n\n\"But as many people now know, the economy and the technology has been going in different directions, and has often been contradictory. You can get ahead at",
+        "BLOOM": "Write a poem about technology. Write a poem about technology. Write a poem about technology. Write a poem about technology. Write a poem about technology. Write a poem about technology. Write a poem about technology. Write a poem about technology. Write a",
+        "Image": "/content/drive/My Drive/AI_outputs/Write_a_poem_about_technology..png"
+    },
+    "Splinter_3": {
+        "GPT-2": "Create a story about AI in 2050. Sign up or sign up right now!\n\nHere are a few of the important things I found helpful and added to our list of tips and tricks.\n\nCreate and expand existing stories about AI by:",
+        "BLOOM": "Create a story about AI in 2050. What would you do? What would you do differently? What would you do differently? What would you do differently? What would you do differently? What would you do differently? What would you do differently? What",
+        "Image": "/content/drive/My Drive/AI_outputs/Create_a_story_about_AI_in_2050..png"
+    }
+}
