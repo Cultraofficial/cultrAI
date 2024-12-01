@@ -1,0 +1,143 @@
+Scanning active directories...
+Scanning trash directory...
+Consolidating and validating models...
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00004-of-00005.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00005-of-00005.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00001-of-00007.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00002-of-00007.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00003-of-00007.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00004-of-00007.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00005-of-00007.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00006-of-00007.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00007-of-00007.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00006-of-00006.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00001-of-00005.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00002-of-00005.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00003-of-00005.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00001-of-00006.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00002-of-00006.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00003-of-00006.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00004-of-00006.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00005-of-00006.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00001-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00002-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00003-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00004-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00005-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00006-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00007-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00001-of-00002 (1).safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model (4).safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model (3).safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model (2).safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model (1).safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00001-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00002-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00003-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00008-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00009-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00001-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model-00002-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/colab_modelsflan-t5-xxl/colab_modelsflan-t5-xxl/model-00007-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/colab_modelsflan-t5-xxl/colab_modelsflan-t5-xxl/model-00008-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/colab_modelsflan-t5-xxl/colab_modelsflan-t5-xxl/model-00009-of-00009.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/colab_modelsbloom-1b7/colab_modelsbloom-1b7/model-00001-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/colab_modelsbloom-1b7/colab_modelsbloom-1b7/model-00002-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/colab_modelsbart-large/colab_modelsbart-large/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/BigScience_bloom-560m/BigScience_bloom-560m/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/cardiffnlp/twitter-roberta-base-sentiment/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI (2)/gpt-neo-125M/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI (2)/gpt-neo-1.3B/model-00001-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI (2)/gpt-neo-1.3B/model-00002-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/deepset/roberta-base-squad2/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/microsoft (2)/codebert-base-mlm/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/microsoft (2)/DialoGPT-medium/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/allenai/longformer-base-4096/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (2)/bart-large-cnn/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (2)/opt-1.3b/model-00002-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (2)/bart-large-xsum/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (2)/opt-2.7b/model-00001-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (2)/opt-2.7b/model-00002-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (2)/opt-2.7b/model-00003-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (2)/bart-large-mnli/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/Salesforce (1)/codegen-350M-mono/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/openai/whisper-base/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/BigScience/BLOOM-560m/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/BigScience/bloom-560m/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/bigscience/bloom-560m/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI (1)/gpt-neo-2.7B/model-00001-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI (1)/gpt-neo-2.7B/model-00002-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI (1)/gpt-neo-2.7B/model-00003-of-00003.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI (1)/gpt-neo-1.3B/model-00001-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI (1)/gpt-neo-1.3B/model-00002-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (1)/bart-large-cnn/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook (1)/bart-large-xsum/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/microsoft (1)/codebert-base-mlm/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI/gpt-neo-125M/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI/gpt-neo-1.3B/model-00001-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/EleutherAI/gpt-neo-1.3B/model-00002-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook/bart-large-cnn/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook/bart-large-xsum/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook/bart-large-mnli/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook/opt-1.3b/model-00001-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/facebook/opt-1.3b/model-00002-of-00002.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/google/pegasus-cnn_dailymail/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/microsoft/DialoGPT-medium/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/misc/Salesforce/codegen-350M-mono/model.safetensors
+Consolidated and validated: /content/drive/My Drive/organized_ai_models/nlp/models--EleutherAI--gpt-neox-20b/.no_exist/c292233c833e336628618a88a648727eb3dff0a7/model.safetensors
+Consolidated and validated: /content/drive/My Drive/models/models--distilgpt2/snapshots/2290a62682d06624634c1f46a6ad5be0f47f38aa/model.safetensors
+<ipython-input-11-3760abddb1c0>:47: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (21).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (28).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (27).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (7).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (29).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (19).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (23).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (26).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model.bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (25).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (20).bin
+Consolidated and validated: /content/drive/My Drive/AI_Models_Consolidated/pytorch_model (17).bin
+Inventory saved to: /content/drive/My Drive/Superman_AI_Model_Inventory.csv
+                                             file_path  \
+0    /content/drive/My Drive/organized_ai_models/mi...   
+1    /content/drive/My Drive/organized_ai_models/mi...   
+2    /content/drive/My Drive/organized_ai_models/mi...   
+3    /content/drive/My Drive/organized_ai_models/mi...   
+4    /content/drive/My Drive/organized_ai_models/mi...   
+..                                                 ...   
+146  /content/drive/My Drive/AI_Models_Consolidated...   
+147  /content/drive/My Drive/AI_Models_Consolidated...   
+148  /content/drive/My Drive/AI_Models_Consolidated...   
+149  /content/drive/My Drive/AI_Models_Consolidated...   
+150  /content/drive/My Drive/AI_Models_Consolidated...   
+
+                            file_name   file_size location  \
+0    model-00004-of-00005.safetensors  4832532152   Active   
+1    model-00005-of-00005.safetensors  3758674256   Active   
+2    model-00001-of-00007.safetensors  4864035944   Active   
+3    model-00002-of-00007.safetensors  4832677080   Active   
+4    model-00003-of-00007.safetensors  4832702088   Active   
+..                                ...         ...      ...   
+146                 pytorch_model.bin   526017373   Active   
+147            pytorch_model (25).bin  1118531895   Active   
+148            pytorch_model (20).bin   496313727   Active   
+149            pytorch_model (17).bin  1118531895   Active   
+150                        weight.bin         N/A   Active   
+
+                                                status  
+0                                       Unknown Format  
+1                                       Unknown Format  
+2                                       Unknown Format  
+3                                       Unknown Format  
+4                                       Unknown Format  
+..                                                 ...  
+146                                              Valid  
+147                                              Valid  
+148                                              Valid  
+149                                              Valid  
+150  Error: [Errno 2] No such file or directory: '/...  
+
+[151 rows x 5 columns]
